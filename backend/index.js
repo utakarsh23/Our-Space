@@ -8,7 +8,7 @@ const app = express();
 
 // ✅ Enable CORS without app.options
 app.use(cors({
-    origin: "http://localhost:5174",  // or "*" if you don't care
+    origin: ["http://localhost:5174","https://our-space-vi1q.vercel.app"], // or "*" if you don't care
     credentials: true,
 }));
 
