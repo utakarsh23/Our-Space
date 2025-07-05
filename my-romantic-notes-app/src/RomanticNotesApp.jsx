@@ -7,7 +7,7 @@ import { HeartIcon } from "@heroicons/react/24/solid";
 import "@fontsource/dancing-script";
 import "@fontsource/pacifico";
 
-const API_URL = "http://localhost:9090/notes";
+const API_URL = "https://our-space-lhto.onrender.com/notes";
 
 export default function RomanticNotesApp() {
     const [notes, setNotes] = useState([]);

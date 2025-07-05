@@ -13,6 +13,7 @@
     "@fontsource/dancing-script": "^5.2.6",
     "@fontsource/pacifico": "^5.2.6",
     "@heroicons/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.1.11",
     "axios": "^1.10.0",
     "framer-motion": "^12.23.0",
     "lottie-react": "^2.4.1",
